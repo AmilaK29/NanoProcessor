@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Oct 10 07:17:47 2022
+# Process ID: 5304
+# Current directory: C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/3. ProgramRom
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12948 C:\Users\Amila Kasun\Desktop\Edu\UOM\Academic\Sem 2\Computer Organization and Digital Design\Project\Nanoprocessor Design Project Files\3. ProgramRom\ProgramRom.xpr
+# Log file: C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/3. ProgramRom/vivado.log
+# Journal file: C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/3. ProgramRom\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/3. ProgramRom/ProgramRom.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/3. ProgramRom'
+INFO: [Project 1-313] Project file moved from 'E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/ProgramRom' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/IPs/ProgramRom/component.xml', nor could it be found using path 'E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/IPs/ProgramRom/component.xml'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IP Repository Path: Could not find the directory 'C:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/IPs/ProgramRom', nor could it be found using path 'E:/01. Engineering UOM/2. Second Semester/3. CS1050 - Computer Organization and Digital Design/2. Labs/IPs/ProgramRom'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'c:/Users/Amila Kasun/Desktop/Edu/UOM/Academic/Sem 2/Computer Organization and Digital Design/Project/Nanoprocessor Design Project Files/IPs/ProgramRom'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+update_compile_order -fileset sources_1
